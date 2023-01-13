@@ -5,11 +5,6 @@
 <h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
 This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
 
-
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How to create, work, and resolves tickets within osTicket](https://www.youtube.com)
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
@@ -34,12 +29,18 @@ This tutorial shows how to create tickets from the perspective of an end user.
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Begin by opening a new ticket.
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://i.imgur.com/DJmEXEB.png" height="40%" width="40%" alt="New Ticket"/>
 </p>
-<br />
+
+<p>
+Customer complaints about being unable to use mobile banking have prompted Karen to create a ticket with the help topic "Business Critical Outage."
+</p>
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="40%" width="40%" alt="Karen needs help"/>
+</p>
 
 <p>
 Live tickets will be visible to agents in the agent panel. The relevant SLAs will be assigned by queue managers along with priority tickets to the right agents.
@@ -48,19 +49,32 @@ Live tickets will be visible to agents in the agent panel. The relevant SLAs wil
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
 <p>
-We are setting the ticket's priority level in this example. Since we are addressing a problem that may have a significant impact on a large area of the business, the priority has been set to Emergency. The SLA plan has been modified, and the ticket has been given to a highly qualified technician. Some ticketing systems allow customers to modify their own SLA plans.
+We are setting the ticket's priority level in this example. Since we are addressing a problem that may have a significant impact on a large area of the business, the priority has been set to Emergency. The SLA plan has been modified, and the ticket has been given to a highly qualified technician in the right department. Some ticketing systems allow customers to modify their own SLA plans.
 </p>
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Agents are able to communicate with customers, in this case Kyle contacted Karen and will be resolving the issue.
 </p>
-<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
+Once the agent has resolved the issue they can change the ticket status to resolve, the ticket will then be closed and can be viewed by naviagting to Tickets >> Closed
+</p>
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
