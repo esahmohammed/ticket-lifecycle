@@ -54,6 +54,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
+We are setting the ticket's priority level in this example. Since we are addressing a problem that may have a significant impact on a large area of the business, the priority has been set to Emergency. The SLA plan has been modified, and the ticket has been given to a highly qualified technician. Some ticketing systems allow customers to modify their own SLA plans.
+</p>
+
+<p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
