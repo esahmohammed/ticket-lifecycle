@@ -32,14 +32,14 @@ This tutorial shows how to create tickets from the perspective of an end user.
 Begin by opening a new ticket.
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="40%" width="40%" alt="New Ticket"/>
+<img src="https://i.imgur.com/Q05VXz4.png" height="40%" width="40%" alt="New Ticket"/>
 </p>
 
 <p>
 Customer complaints about being unable to use mobile banking have prompted Karen to create a ticket with the help topic "Business Critical Outage."
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="40%" width="40%" alt="Karen needs help"/>
+<img src="https://i.imgur.com/sjH6mDt.png" height="40%" width="40%" alt="Karen needs help"/>
 </p>
 
 <p>
@@ -47,7 +47,7 @@ Live tickets will be visible to agents in the agent panel. The relevant SLAs wil
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/D1bMySx.png" height="40%" width="40%" alt="Visble tickets"/>
 </p>
 
 <p>
@@ -55,7 +55,7 @@ We are setting the ticket's priority level in this example. Since we are address
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/zsLNbtY.png" height="40%" width="40%" alt="Ticket assignment"/>
 </p>
 
 <p>
@@ -63,7 +63,7 @@ Agents are able to communicate with customers, in this case Kyle contacted Karen
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/eHB69Ad.png" height="40%" width="40%" alt="Customer service"/>
 </p>
 
 <p>
@@ -71,10 +71,10 @@ Once the agent has resolved the issue they can change the ticket status to resol
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/CZZMbPj.png" height="40%" width="40%" alt="Ticket status"/>
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/fF0NFFN.png" height="40%" width="40%" alt="Closed ticket"/>
 </p>
 
